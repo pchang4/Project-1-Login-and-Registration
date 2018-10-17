@@ -33,10 +33,13 @@
     "version": 105
   },
   "pages": [
-    " ",
+    "Page 1",
     "Symbols"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"557608559\",\"layerId\":\"731566AD-8A6A-4DAB-8E71-107BA4886E64\"},{\"id\":\"891418990\",\"layerId\":\"C2295571-DD99-4068-BA60-A4EC9D5BF83A\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

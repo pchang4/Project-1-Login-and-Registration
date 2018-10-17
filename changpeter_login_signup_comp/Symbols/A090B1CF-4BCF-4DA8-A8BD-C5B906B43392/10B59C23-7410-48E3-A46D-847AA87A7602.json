@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GillSans-SemiBold",
-              "size": 24
+              "size": 26
             }
           },
           "paragraphStyle": {
@@ -51,9 +51,9 @@
     "height": 30,
     "width": 267,
     "x": 29,
-    "y": 13
+    "y": 11
   },
-  "glyphBounds": "{{43, 6}, {181, 18}}",
+  "glyphBounds": "{{36, 7}, {195, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -86,7 +86,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GillSans-SemiBold",
-            "size": 24
+            "size": 26
           }
         },
         "paragraphStyle": {

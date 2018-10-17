@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 511,
   "do_objectID": "726DD5E2-C167-490E-ADEA-6816A56E54FF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,10 +49,6 @@
     {
       "class": "shapeGroup",
       "id": "C7624DC3-0550-4241-9EF9-602608C69407"
-    },
-    {
-      "class": "text",
-      "id": "DBBDCBF3-DD5F-493D-9F7F-D0F460ADC21D"
     }
   ],
   "name": "molecule/profile-image",
