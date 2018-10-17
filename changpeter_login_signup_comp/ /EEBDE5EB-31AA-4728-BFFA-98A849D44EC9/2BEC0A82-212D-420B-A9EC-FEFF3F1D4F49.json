@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2BEC0A82-212D-420B-A9EC-FEFF3F1D4F49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34CC5409-ACB8-4623-901C-097D11920004",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE683DF9-21A8-4E94-BD6B-E2FF9B4021EA",
+    "height": 44,
+    "width": 87,
+    "x": 252,
+    "y": 372
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/login",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86C96FEB-00DC-45F4-93D1-581EB54E3318",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19C2ED5E-A668-4431-B401-5AE4A5C76A22",
+  "verticalSpacing": 0
+}

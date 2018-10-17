@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "B8606ABB-7A40-40DC-96E3-BFB2E169F0D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AC9CACC-D217-4365-ACA7-1842FFD69C49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3CD71B9F-71B1-4C7B-9DDE-C01E02BD0DA6",
+    "height": 41,
+    "width": 474,
+    "x": 0,
+    "y": 82
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/102aa293e1b0ac2634de5efac6292537b9d6056e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bike copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "300DA263-3C81-4F6C-8E56-7D566C922F69",
+      "opacity": 0.7210937499999999
+    },
+    "do_objectID": "A2907DBF-0A9E-4F40-AA30-18F5A11C5ADA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

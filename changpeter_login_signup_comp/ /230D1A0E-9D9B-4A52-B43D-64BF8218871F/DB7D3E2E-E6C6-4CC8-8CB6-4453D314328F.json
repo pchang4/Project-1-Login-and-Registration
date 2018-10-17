@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DB7D3E2E-E6C6-4CC8-8CB6-4453D314328F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23A9DB72-09C8-405B-89EF-D111FB13EA0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D7AFCFD6-81CD-4315-A8C5-7271F20FDD4F",
+    "height": 700,
+    "width": 700,
+    "x": -347,
+    "y": -1069
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8991a3ca1c63de1faa33b2d1f385b2b0db330866.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "noun_Email_1198104",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2D0EBCD-624E-4769-B7FE-0F5C227C88AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9DD27228-F7FE-4EF8-93BA-FB05773C3481",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "495E5B50-0BDC-4C86-8074-7678587D3A1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F965BE3C-7103-42B0-8F86-B9C68C7CA009",
+    "height": 552,
+    "width": 378,
+    "x": 74,
+    "y": 123
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3a48aa84f7c4011d1bbb60bf9ca14c4c743678b2.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bike",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "0D86D93E-E0B4-4066-8A9A-9E38FD4A8E2B",
+      "opacity": 0.7210937499999999
+    },
+    "do_objectID": "7B0AF9AD-7B7E-47A3-81B3-CCB257016BB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "08B956AB-B42D-4FC7-A19C-2768B3CADB65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67311091-D339-4DD6-A502-CD238D6B2FA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13D3DAD8-9F7F-482A-BFCF-AEA8955833B9",
+    "height": 56,
+    "width": 296,
+    "x": 35,
+    "y": 175
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/othersitebanner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2F08065-C417-4B02-83BC-EB6A06365D45",
+      "overrideName": "10B59C23-7410-48E3-A46D-847AA87A7602_stringValue",
+      "value": "Instagram"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D472374C-FE44-48FB-8A04-FEAD6EA443F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "116A961C-813F-44B0-9A70-D796F95E44E2",
+  "verticalSpacing": 0
+}

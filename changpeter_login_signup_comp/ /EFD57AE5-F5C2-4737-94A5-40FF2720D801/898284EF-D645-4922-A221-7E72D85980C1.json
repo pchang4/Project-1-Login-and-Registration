@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "898284EF-D645-4922-A221-7E72D85980C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B7A9178-DAF3-4088-8719-FA6E69296FAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BED823EC-E6B9-4F04-8562-B7A158898289",
+    "height": 125,
+    "width": 353,
+    "x": 0,
+    "y": 64
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/head",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "760FEC6E-A6F3-43EA-AF24-B66E49C09151",
+      "overrideName": "FDD7284D-633C-45D4-9F6C-C5B7B0960419_stringValue",
+      "value": "Journey"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDC1901B-E137-40A8-B9F4-68B6844FD00B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3BFA1D8-2F5C-4A01-A1A9-2B65017A66FD",
+  "verticalSpacing": 0
+}

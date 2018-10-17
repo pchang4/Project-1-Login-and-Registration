@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1DF2C844-AC10-4F70-A698-5AB538805F58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 239,
+    "width": 296,
+    "x": 37,
+    "y": 189
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/popup",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "574D66D7-29C0-4AEC-AB74-4CB09D62E5D7",
+      "overrideName": "3FD48AFF-00DE-40E0-A9C0-9CCF3D615975_stringValue",
+      "value": "Invalid Information"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED25E54D-B479-45F9-AF71-951A6FCA569B",
+      "overrideName": "599156EB-11A5-483D-AA51-B331F230E970_stringValue",
+      "value": "Some information doesn't match those in the system."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FA4568B-24C1-4127-963D-851BB42AC552",
+  "verticalSpacing": 0
+}

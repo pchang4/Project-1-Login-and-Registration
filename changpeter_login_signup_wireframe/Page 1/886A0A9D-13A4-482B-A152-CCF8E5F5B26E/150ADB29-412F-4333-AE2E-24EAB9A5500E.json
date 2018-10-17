@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "150ADB29-412F-4333-AE2E-24EAB9A5500E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14EE5BB2-AF1B-403F-BA61-5FD7EBD0794C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8B4122B-0434-403F-9403-551AA2E1FB98",
+    "height": 125,
+    "width": 353,
+    "x": 11,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/head",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F89526C2-1A71-4EC8-80B9-87CBECE83795",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F3BFA1D8-2F5C-4A01-A1A9-2B65017A66FD",
+  "verticalSpacing": 0
+}

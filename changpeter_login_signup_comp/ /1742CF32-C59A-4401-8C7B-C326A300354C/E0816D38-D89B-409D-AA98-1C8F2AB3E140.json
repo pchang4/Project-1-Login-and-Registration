@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E0816D38-D89B-409D-AA98-1C8F2AB3E140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDDD8726-0D00-410A-A645-7BE37ED6A375",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB9DAF93-C20E-4F69-AE61-DB132AF19A16",
+    "height": 64,
+    "width": 353,
+    "x": 11,
+    "y": 238
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/text-input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3B757AF-B19C-43EC-A7F4-3D37E1F853BE",
+      "overrideName": "2D859F36-4F0E-42FB-896F-5CC251F487B9_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BDB2537-8DA8-4ECD-AE75-0714006E91E3",
+      "overrideName": "613F92D4-3E71-4DB0-B628-92DCDD36A062_stringValue",
+      "value": "pchang4@eagles.ewu.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB69EF88-709D-4C28-B400-B0BBC7FB1A3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "462CCB83-C6EA-4499-A943-674CEF529C60",
+  "verticalSpacing": 0
+}

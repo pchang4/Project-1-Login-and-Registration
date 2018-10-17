@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5ED79159-00C2-478C-BB00-E2BCEEF783F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BA7AA80-CA05-4F87-B9F2-C55222307B23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "638EB97C-AE44-41F7-9C84-53AC13622244",
+    "height": 78,
+    "width": 233,
+    "x": 71,
+    "y": 484
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/outside-login",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C8C289A-BF52-401B-8D98-3193E46FD014",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "157F2166-5D0D-4AC1-8EA2-F8F1CEBB6428",
+  "verticalSpacing": 0
+}

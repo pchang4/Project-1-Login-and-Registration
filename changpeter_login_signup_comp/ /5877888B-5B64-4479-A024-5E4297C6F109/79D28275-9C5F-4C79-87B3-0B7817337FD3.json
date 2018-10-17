@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "79D28275-9C5F-4C79-87B3-0B7817337FD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 239,
+    "width": 296,
+    "x": 39,
+    "y": 189
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/popup",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E3D3315-9543-46FD-8931-7F041FAAB5B9",
+      "overrideName": "3FD48AFF-00DE-40E0-A9C0-9CCF3D615975_stringValue",
+      "value": "Invalid/Wrong Info"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "014CC714-4F2B-4C36-A67E-706B73BD4682",
+      "overrideName": "599156EB-11A5-483D-AA51-B331F230E970_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc neque velit, tempor sed arcu eget, lobortis mollis dolor. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FA4568B-24C1-4127-963D-851BB42AC552",
+  "verticalSpacing": 0
+}

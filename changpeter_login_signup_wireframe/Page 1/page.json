@@ -1,0 +1,98 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "0811AC91-3311-4B16-9212-295F531E1BA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5B3A1023-0B85-4F13-B19C-CF200B35DDB5"
+    },
+    {
+      "class": "artboard",
+      "id": "98B2452A-5647-4C86-9338-3DBE59D21C92"
+    },
+    {
+      "class": "artboard",
+      "id": "A03998D0-6405-40DB-8A60-F23E4658D7F3"
+    },
+    {
+      "class": "artboard",
+      "id": "88006245-CD6F-4A6A-B52C-4E3B3E383EDD"
+    },
+    {
+      "class": "artboard",
+      "id": "A58E6974-2493-46D8-837D-ADDED3AC831B"
+    },
+    {
+      "class": "artboard",
+      "id": "11B77F6D-7E4D-406E-A8E1-549A285D367C"
+    },
+    {
+      "class": "artboard",
+      "id": "92E398E6-F8C9-405F-AC62-187A63D8413F"
+    },
+    {
+      "class": "artboard",
+      "id": "35ECF9E2-6FA1-4863-BDE7-345C84D95727"
+    },
+    {
+      "class": "artboard",
+      "id": "CA8ACEC3-383A-45C6-A028-A2415A1AAE14"
+    },
+    {
+      "class": "artboard",
+      "id": "886A0A9D-13A4-482B-A152-CCF8E5F5B26E"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      179
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FA1DFACC-EB3E-4105-8866-B6E7C1D086B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FAD4739-6CF3-4264-9846-4D8A4C3D4131",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "712CEDBE-DB3C-4092-BFA4-ABFFDEF6F14B",
+    "height": 44,
+    "width": 310,
+    "x": 41,
+    "y": 168
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/othersitebanner copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E24D468B-98E5-4903-AAAD-393E8FC47F33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "116A961C-813F-44B0-9A70-D796F95E44E2",
+  "verticalSpacing": 0
+}

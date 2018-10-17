@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4D734D4C-57B8-422B-9545-5B5834DD70DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91B3651C-9E8C-4B07-A09A-00B49BC44B0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E10EB32-FECE-42B9-AC70-F971B41EB05A",
+    "height": 19,
+    "width": 186,
+    "x": 63,
+    "y": 178
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/links",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9E4327D-B5F2-476A-9B83-49FD30AF803B",
+      "overrideName": "4A9C7926-D85C-4175-A6B2-36E7777B584C_stringValue",
+      "value": "Forgot Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3122278-72CF-46FF-AE58-A817E46A5E08",
+      "overrideName": "CC08B712-BECB-48B6-A376-5FB44397D434_stringValue",
+      "value": "Retry Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61C04D6A-269B-46F1-B53E-E960C7723126",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4775CF47-D8A6-4070-AD97-A21B439B54D0",
+  "verticalSpacing": 0
+}

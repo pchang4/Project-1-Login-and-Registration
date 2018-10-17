@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A2C6DD72-87FB-40DD-BC48-D657133CBE9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 353,
+    "x": 11,
+    "y": 389
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/term&conditions",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E4DD2BD-A6D9-4522-B1A9-604BEBB20D51",
+      "overrideName": "993644CD-DADC-4E6C-A2FA-F083265ED518_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec dolor non quam bibendum molestie. Vivamus rutrum, ipsum mollis tristique ultricies, quam ipsum molestie leo, ut imperdiet augue neque nec libero. Quisque vestibulum nec odio eu consectetur. Etiam elementum ex sed massa posuere, sed consectetur ligula maximus. Nunc nec nulla vitae neque pharetra tempus ut porta sapien. Etiam viverra enim porttitor magna rutrum, sed varius justo iaculis. In at elementum quam, vitae hendrerit est. Mauris porta scelerisque velit, a consequat enim lacinia non. Donec varius venenatis magna a auctor."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2016D34-97D3-4E0A-A851-E03A673DA14F",
+  "verticalSpacing": 0
+}

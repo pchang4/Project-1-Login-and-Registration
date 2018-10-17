@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7994BCA8-70F4-403D-8A6B-F293DB55F0CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD6A9190-B128-44BF-B3AA-FE41FA42844C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D0B43FD-9F4B-43B4-8755-BCADE2E07974",
+    "height": 42,
+    "width": 95,
+    "x": 248,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/login",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F05BD958-166B-438E-9CC9-0F8F2F6CDD02",
+      "overrideName": "A5C455F1-80D9-4524-90B8-0153CCDAF6A1_stringValue",
+      "value": "confirm"
+    }
+  ],
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2758C4B-2C17-4465-BB2B-8AD255FBA98C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19C2ED5E-A668-4431-B401-5AE4A5C76A22",
+  "verticalSpacing": 0
+}
